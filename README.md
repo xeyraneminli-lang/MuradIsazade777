@@ -10,6 +10,7 @@
 
 - 🔭 I'm currently working on various **frontend projects**.
 - 🎯 My goal: to develop real projects and gain experience in jobs like **freelance**.
+- 🎯 Additional project work: I also develop projects such as Python Java C++ Games.
 - ⚡ My main goal: to gain experience and focus on my work.
 
 ---
