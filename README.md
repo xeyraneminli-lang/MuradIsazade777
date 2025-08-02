@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Murad 👋</h1>
 
 <p align="center">
-👨‍💻 Young programmer | 🎯 I'm learning Frontend + Backend | 🌱 I'm also learning additional programming tools.
+👨‍💻 Young programmer | 🎯 I'm learning IT essentials | 🌱 I'm also learning additional programming tools.
 </p>
 
 ---
