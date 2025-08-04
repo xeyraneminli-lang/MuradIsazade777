@@ -1,6 +1,6 @@
 # 👨‍💻 Murad's GitHub Profile
 
-Hello! I am Murad — Frontend Developer and I want to become a Cybersecurity specialist in the future. I am currently actively working with HTML, CSS, JavaScript, React and Python. I am developing projects to increase my experience and am constantly learning.
+Hello! I am Murad — Full-Stack Developer and I want to become a Cybersecurity specialist in the future. I am currently actively working with HTML, CSS, JavaScript, React and Python. I am developing projects to increase my experience and am constantly learning.
 
 ---
 
