@@ -55,10 +55,14 @@
 - 💻 https://github.com/MuradIsazade777
 ---
 
-> "Coding is not just a profession, it's also an art." — Murad
+
 ##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=radical" />
 </p>
+
+
+---
+> "Coding is not just a profession, it's also an art." — Murad
