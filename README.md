@@ -45,7 +45,7 @@
 
 - ✅ 100+ JavaScript projects
 - ✅ Complete my portfolio
-- ✅ Learn React.js and use it in real projects
+- ✅ Learn programming languages and use it in real projects
 - ✅ Transition to Cybersecurity (2025–2026)
 ---
 ### 🌐 Contact
