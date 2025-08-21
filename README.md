@@ -51,7 +51,6 @@
 ### 🌐 Contact
 
 - 📧 Email: muradisazde019@gmail.com
-- 🌐 Portfolio: https://muradisazade777.github.io/Portfolio-website/
 - 💻 https://github.com/MuradIsazade777
 ---
 
