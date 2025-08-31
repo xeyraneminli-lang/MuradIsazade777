@@ -25,6 +25,7 @@
 
 - 📧 Email: muradisazde019@gmail.com
 - 💻 https://github.com/MuradIsazade777
+  
 ---
 
 
@@ -34,7 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=radical&langs_count=6&hide=Jupyter%20Notebook&size_weight=0.1&count_weight=0.9" />
 </p>
-
 
 ---
 > "Coding is not just a profession, it's also an art." — Murad
