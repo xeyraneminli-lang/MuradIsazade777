@@ -25,7 +25,6 @@
 
 - 📧 Email: muradisazde019@gmail.com
 - 💻 https://github.com/MuradIsazade777
-  
 ---
 
 ##  GitHub Stats
