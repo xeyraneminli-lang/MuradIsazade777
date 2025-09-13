@@ -36,5 +36,5 @@
 </p>
 
 ---
-> "Coding is not just a profession, it's also an art." — Murad
+> "Coding is not just a profession, it's also an art." — Murad.
 ---
