@@ -3,6 +3,29 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Murad;I'm+a+Full-stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
+## 👨‍💻 About Me  
+I'm a passionate **Full Stack Developer** who enjoys building complete solutions — from frontend interfaces to backend servers.  
+I have worked on multiple projects where I focused on creating clean **UI designs**, building efficient **backend systems**, and implementing secure **authentication** mechanisms.  
+
+💻 I love working with the **terminal**, exploring new tools, and optimizing workflows.  
+🎨 On the frontend side, I focus on responsive and user-friendly **UI/UX design**.  
+⚙️ On the backend, I enjoy building scalable **server-side applications** and working with **databases**.  
+
+🔐 Besides full stack development, I also have a strong interest in **Cybersecurity**.  
+I'm constantly learning how systems can be made more secure and exploring different areas of security practices.  
+
+
+### 🌟 Outside of Coding  
+When I'm not coding, I enjoy:  
+♟️ Playing chess to improve my problem-solving skills  
+⚽ Spending time on the football field and staying active  
+🎬 Watching movies to relax and get inspired  
+🤖 Exploring **Artificial Intelligence** and learning how it can shape the future  
+📚 Continuously seeking new knowledge in both tech and beyond  
+
+🚀 Always curious, always learning — pushing myself to grow as a developer every day.  
+---
+
 ## 📊 Skills Overview  
 
 | Category | Skills |
@@ -15,13 +38,7 @@
 
 ---
 
-## 🎯 My Goals
 
-- ✅ 100+ JavaScript projects
-- ✅ Complete my portfolio
-- ✅ Learn programming languages and use it in real projects
-- ✅ Transition to Cybersecurity (2025–2026)
----
 ### 🌐 Contact
 
 - 📧 Email: muradisazde019@gmail.com
