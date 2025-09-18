@@ -54,4 +54,8 @@ When I'm not coding, I enjoy:
   [![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
