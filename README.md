@@ -54,7 +54,4 @@ When I'm not coding, I enjoy:
   [![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
-
-
-> "Coding is not just a profession, it's also an art." — Murad.
 ---
