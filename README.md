@@ -30,7 +30,13 @@ When I'm not coding, I enjoy:
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="1200">
 
-## 📊 Skills Overview  
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" style="vertical-align: middle;">
+  <span style="font-size: 24px; font-weight: bold; margin-left: 10px; margin-top: -40px;">MY SKILLS</span>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 | Category | Skills |
 |----------|--------|
@@ -39,6 +45,8 @@ When I'm not coding, I enjoy:
 | **Frameworks & Libraries** | <p align="center"> ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  ![Django](https://skillicons.dev/icons?i=django) ![Spring](https://skillicons.dev/icons?i=spring) |
 | **Database** | <p align="center"> ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Prisma](https://skillicons.dev/icons?i=prisma) </p> |
 | **Tools** | <p align="center"> ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Figma](https://skillicons.dev/icons?i=figma) ![Docker](https://skillicons.dev/icons?i=docker) ![Bash](https://skillicons.dev/icons?i=bash) ![Shell](https://skillicons.dev/icons?i=powershell) </p> |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 
