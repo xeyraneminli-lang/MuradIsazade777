@@ -28,7 +28,7 @@ When I'm not coding, I enjoy:
 🚀 Always curious, always learning — pushing myself to grow as a developer every day.  
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="1200">
 
 ## 📊 Skills Overview  
 
