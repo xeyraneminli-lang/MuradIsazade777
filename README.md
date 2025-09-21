@@ -35,7 +35,6 @@ When I'm not coding, I enjoy:
   <span style="font-size: 24px; font-weight: bold; margin-left: 10px; margin-top: -40px;">MY SKILLS</span>
 </p>
 
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 | Category | Skills |
@@ -60,9 +59,10 @@ When I'm not coding, I enjoy:
 ##  GitHub Stats
 
 <p align="center">
+  
+  ![Murad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuradIsazade777&theme=github-compact)
   <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=radical&langs_count=6&hide=Jupyter%20Notebook&size_weight=0.1&count_weight=0.9" />
-  
   [![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
