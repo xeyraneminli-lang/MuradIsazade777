@@ -61,8 +61,8 @@ When I'm not coding, I enjoy:
 <p align="center">
   
   ![Murad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuradIsazade777&theme=github-compact)
-  <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=radical&langs_count=6&hide=Jupyter%20Notebook&size_weight=0.1&count_weight=0.9" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" width="600" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark" width="400" />
   [![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
