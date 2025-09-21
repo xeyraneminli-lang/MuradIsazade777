@@ -67,7 +67,7 @@ When I'm not coding, I enjoy:
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
