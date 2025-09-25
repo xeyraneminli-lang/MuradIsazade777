@@ -28,7 +28,7 @@ When I'm not coding, I enjoy:
 🚀 Always curious, always learning — pushing myself to grow as a developer every day.  
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="1200">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="1000">
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" style="vertical-align: middle;">
@@ -61,9 +61,9 @@ When I'm not coding, I enjoy:
 <p align="center">
   
   ![Murad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuradIsazade777&theme=github-compact)
- <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" width="600" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark" width="400" />
-  [![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+ <img src="https://github-readme-stats.vercel.app/api?username=MuradIsazade777&show_icons=true&theme=radical" width="700" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIsazade777&layout=compact&theme=github_dark" width="500" />
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MuradIsazade777&theme=darkhub&margin-w=15&margin-h=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
