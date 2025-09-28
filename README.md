@@ -39,7 +39,7 @@ When I'm not coding, I enjoy:
 
 | Category | Skills |
 |----------|--------|
-| **Frontend Skills** | <p align="center"> ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Redux](https://skillicons.dev/icons?i=redux) </p> |
+| **Frontend Skills** | <p align="center"> ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Redux](https://skillicons.dev/icons?i=redux) ![SCSS](https://skillicons.dev/icons?i=scss) </p> |
 | **Backend Skills** | <p align="center"> ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![C#](https://skillicons.dev/icons?i=cs) ![PHP](https://skillicons.dev/icons?i=php) ![Node.js](https://skillicons.dev/icons?i=nodejs) </p> |
 | **Frameworks & Libraries** | <p align="center"> ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  ![Django](https://skillicons.dev/icons?i=django) ![Spring](https://skillicons.dev/icons?i=spring) |
 | **Database** | <p align="center"> ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![Prisma](https://skillicons.dev/icons?i=prisma) ![Redis](https://skillicons.dev/icons?i=redis)   </p> |
