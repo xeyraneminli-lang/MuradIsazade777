@@ -46,7 +46,6 @@ When I'm not coding, I enjoy:
 | **Tools** | <p align="center"> ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Figma](https://skillicons.dev/icons?i=figma) ![Docker](https://skillicons.dev/icons?i=docker) ![Postman](https://skillicons.dev/icons?i=postman)  ![Bash](https://skillicons.dev/icons?i=bash) ![Shell](https://skillicons.dev/icons?i=powershell)  </p> |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 ---
 
 
